@@ -1,0 +1,14 @@
+name:
+    russian: "ЛКШ 2019 --- Вступительная олимпиада"
+
+location:
+    russian: "ДОЛ ``Зарница''"
+
+date:
+    russian: "6 августа 2019"
+
+problems:
+    - id: neodnorodnost
+      prefix: A
+    - id: templates
+      prefix: B
