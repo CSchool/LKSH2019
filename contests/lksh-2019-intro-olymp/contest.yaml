@@ -8,11 +8,21 @@ date:
     russian: "6 августа 2019"
 
 problems:
-    - id: neodnorodnost
+    - id: translate-joke
       prefix: A
-    - id: templates
+    - id: basic-function
       prefix: B
-    - id: timer
-      prefix: C
-    - id: permissions
+    - id: triangles
+      prexif: C
+    - id: fibonacci
       prefix: D
+    - id: lucky-tickets
+      prefix: E
+    - id: neodnorodnost
+      prefix: F
+    - id: templates
+      prefix: G
+    - id: timer
+      prefix: H
+    - id: permissions
+      prefix: I
