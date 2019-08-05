@@ -1,2 +1,2 @@
-generate: generator 0
-sample: true
+generate: generator -3
+sample: false
