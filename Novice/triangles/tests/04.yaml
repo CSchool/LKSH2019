@@ -1,2 +1,2 @@
-generate: iso_gen 3
+generate: eq_gen 1
 sample: false

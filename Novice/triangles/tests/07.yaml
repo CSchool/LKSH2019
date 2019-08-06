@@ -1,2 +1,2 @@
-generate: non_gen 1
+generate: iso_gen 4
 sample: false

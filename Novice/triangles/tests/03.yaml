@@ -1,2 +1,2 @@
-generate: iso_gen 2
-sample: false
+generate: plain_gen 1
+sample: true

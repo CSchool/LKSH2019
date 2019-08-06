@@ -1,2 +1,2 @@
-generate: plain_gen 1
+generate: non_gen 5
 sample: false
