@@ -19,10 +19,10 @@ def convert_base(num, to_base=10, from_base=10):
 
 
 if sys.argv[1] == '0':
-    print('100 2')
+    print('100\n2')
 elif sys.argv[1] == '1':
-    print('A 16')
+    print('100\n9')
 else:
-    scale = random.randint(2, 16)
+    scale = random.randint(2, 9)
     number = random.randint(1, 10000)
-    print('{} {}'.format(convert_base(number, scale), scale))
+    print('{}\n{}'.format(convert_base(number, scale), scale))

@@ -13,5 +13,6 @@ def convert_base(num, to_base=10, from_base=10):
 
 
 if __name__ == '__main__':
-    number, scale = input().split()
-    print(convert_base(number, 10, int(scale)))
+    number = input()
+    scale = int(input())
+    print(convert_base(number, 10, scale))
