@@ -1,0 +1,30 @@
+name:
+    russian: "This is ... массивы!"
+
+location:
+    russian: "ДООЦ ``Зарница''"
+
+date:
+    russian: "11 августа 2019"
+
+# Uncomment following lines when adding problems:
+
+problems:
+    - id: simple-array
+      prefix: A
+    - id: simple-sum
+      prefix: B
+    - id: max-element
+      prefix: C
+    - id: insert-into-array
+      prefix: D
+    - id: element-count
+      prefix: E
+    - id: array-right-shift
+      prefix: F
+
+# problems:
+#     - id: problem-one       # Problem's internal name
+#       prefix: A             # Problem's prefix in contest
+#     - id: problem-two
+#       prefix: B
