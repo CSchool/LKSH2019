@@ -1,0 +1,16 @@
+name:
+    russian: "ЛКШ 2019 --- Группа П3 --- Тренировка 03"
+
+location:
+    russian: "ДООЦ ``Зарница''"
+
+date:
+    russian: "11 августа 2019"
+
+problems:
+    - id: check-dfa
+      prefix: A
+    - id: unpacking
+      prefix: B
+    - id: strip-comments
+      prefix: C
