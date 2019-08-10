@@ -1,0 +1,26 @@
+name:
+    russian: "(П2) Повторение --- мать учения!"
+
+location:
+    russian: "ДООЦ ``Зарница''"
+
+date:
+    russian: "7 августа 2019"
+
+# Uncomment following lines when adding problems:
+
+problems:
+    - id: coord-quater       
+      prefix: A             
+    - id: leap-year
+      prefix: B
+    - id: number-degree
+      prefix: C
+    - id: cubes-from-a-to-b
+      prefix: D
+    - id: number-sum-even
+      prefix: E
+    - id: flip_number
+      prefix: F
+    - id: prime-number
+      prefix: G

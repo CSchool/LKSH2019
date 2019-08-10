@@ -1,0 +1,18 @@
+name:
+    russian: "(П2) Повторение --- мать учения --- опять! :)"
+
+location:
+    russian: "ДООЦ ``Зарница''"
+
+date:
+    russian: "8 августа 2019"
+
+# Uncomment following lines when adding problems:
+
+problems:
+    - id: prime-number-hard       
+      prefix: A             
+    - id: 10-to-x
+      prefix: B
+    - id: x-to-10
+      prefix: C
