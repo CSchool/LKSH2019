@@ -1,0 +1,6 @@
+typedef verylong struct {
+long[2];
+unsigned short int[4];
+}
+sizeof verylong
+alignof verylong

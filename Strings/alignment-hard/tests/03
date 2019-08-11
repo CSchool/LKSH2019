@@ -1,0 +1,12 @@
+typedef verylong struct {
+long[2];
+unsigned short int[4];
+}
+typedef evenlonger struct {
+verylong[4];
+}
+sizeof evenlonger
+alignof evenlonger
+typedef arr evenlonger[123]
+sizeof arr
+alignof arr
