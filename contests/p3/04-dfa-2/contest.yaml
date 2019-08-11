@@ -1,0 +1,16 @@
+name:
+    russian: "ЛКШ 2019 --- Группа П3 --- Тренировка 04"
+
+location:
+    russian: "ДООЦ ``Зарница''"
+
+date:
+    russian: "12 августа 2019"
+
+problems:
+    - id: count-emails
+      prefix: A
+    - id: alignment
+      prefix: B
+    - id: alignment-hard
+      prefix: C
