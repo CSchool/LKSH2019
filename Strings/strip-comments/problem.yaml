@@ -14,7 +14,7 @@ input_file: standard_io
 output_file: standard_io
 
 # Time limit per test in seconds.
-time_limit: 1.0
+time_limit: 2.0
 
 # Memory limit per test in MiB.
 memory_limit: 256
