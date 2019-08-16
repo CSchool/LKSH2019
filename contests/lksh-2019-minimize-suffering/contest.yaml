@@ -16,3 +16,5 @@ problems:
       prefix: C
     - id: straight-array
       prefix: D
+    - id: inequalties
+      prefix: E
