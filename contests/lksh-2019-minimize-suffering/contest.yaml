@@ -14,3 +14,5 @@ problems:
       prefix: B
     - id: third-buy-discount
       prefix: C
+    - id: straight-array
+      prefix: D
