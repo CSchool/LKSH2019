@@ -1,0 +1,14 @@
+name:
+    russian: "ЛКШ 2019 --- Minimize size, maximize suffering"
+
+location:
+    russian: "ДООЦ ``Зарница''"
+
+date:
+    russian: "17 августа 2019"
+
+problems:
+    - id: kek
+      prefix: A
+    - id: kettle
+      prefix: B

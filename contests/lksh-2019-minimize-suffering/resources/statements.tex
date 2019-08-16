@@ -1,0 +1,47 @@
+\documentclass [11pt, a4paper, oneside] {article}
+
+\usepackage [T2A] {fontenc}
+\usepackage [utf8] {inputenc}
+\usepackage [english, russian] {babel}
+\usepackage {amsmath}
+\usepackage {amssymb}
+\usepackage #Language#{olymp}
+\usepackage {comment}
+\usepackage {epigraph}
+\usepackage {expdlist}
+\usepackage {graphicx}
+\usepackage {ulem}
+\usepackage {url}
+
+\newcommand{\SAMPLES}{nothing here yet}
+
+#Preamble#
+
+\begin {document}
+
+\contest
+{#ContestName#}%
+{#ContestLocation#}%
+{#ContestDate#}%
+
+\binoppenalty=10000
+\relpenalty=10000
+
+\renewcommand{\t}{\texttt}
+
+\section*{Правила контеста}
+
+В сегодняшней олимпиаде вам потребуется решать задачи, при этом минимизировать
+размер исходного текста программы. За успешное решение задачи
+вам будут начисляться баллы в количестве $10\ 000 - S$, где $S$~--- размер вашего
+исходника в байтах.
+Естественно, посылать исходники размером больше $10\ 000$ байт нельзя.
+Штрафа за перепосылку нет, как и штрафа по времени.
+Участники в табличке сортируются по сумме баллов.
+Удачи.
+
+\newpage
+
+#Statements#
+
+\end {document}
