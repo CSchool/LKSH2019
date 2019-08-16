@@ -12,3 +12,5 @@ problems:
       prefix: A
     - id: kettle
       prefix: B
+    - id: third-buy-discount
+      prefix: C
