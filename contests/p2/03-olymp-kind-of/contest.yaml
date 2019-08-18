@@ -1,0 +1,22 @@
+name:
+    russian: "Олимпиада (наверное)"
+
+location:
+    russian: "ДООЦ ``Зарница''"
+
+date:
+    russian: "15 августа 2019"
+
+# Uncomment following lines when adding problems:
+
+problems:
+    - id: money-riddle
+      prefix: A
+    - id: diary
+      prefix: B
+    - id: dandelion
+      prefix: C
+    - id: gravity-triangles
+      prefix: D
+    - id: candy-monster
+      prefix: E

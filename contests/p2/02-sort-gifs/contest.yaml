@@ -1,0 +1,20 @@
+name:
+    russian: "Интересные картинки с сортировкой"
+
+location:
+    russian: "ДООЦ ``Зарница''"
+
+date:
+    russian: "12 августа 2019"
+
+# Uncomment following lines when adding problems:
+
+problems:
+    - id: bubble-sort
+      prefix: A
+    - id: counting-sort
+      prefix: B
+    - id: insertion-sort
+      prefix: C
+    - id: selection-sort
+      prefix: D

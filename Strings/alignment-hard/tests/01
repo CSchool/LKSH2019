@@ -1,0 +1,3 @@
+typedef eightbytes unsigned char[8]
+sizeof eightbytes
+alignof eightbytes
