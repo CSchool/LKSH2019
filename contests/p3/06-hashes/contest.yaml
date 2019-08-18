@@ -1,0 +1,18 @@
+name:
+    russian: "ЛКШ 2019 --- Группа П3 --- Тренировка 06"
+
+location:
+    russian: "ДООЦ ``Зарница''"
+
+date:
+    russian: "19 августа 2019"
+
+problems:
+    - id: metbefore
+      prefix: A
+    - id: strstr-all
+      prefix: B
+    - id: min-cyclic-shift
+      prefix: C
+    - id: check-subpalindrome
+      prefix: D
