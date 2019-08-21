@@ -1,0 +1,22 @@
+name:
+    russian: "Заключительная олимпиада группы П2"
+
+location:
+    russian: "ДООЦ ``Зарница''"
+
+date:
+    russian: "21 августа 2019"
+
+# Uncomment following lines when adding problems:
+
+problems:
+  - id: cthulhu-squares
+    prefix: A
+  - id: soup
+    prefix: B
+  - id: tea-party
+    prefix: C
+  - id: dog-poker
+    prefix: D
+  - id: boys-and-cameras
+    prefix: E
