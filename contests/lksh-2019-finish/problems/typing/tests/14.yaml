@@ -1,0 +1,2 @@
+generate: gen_rand_abs 10000
+sample: false
