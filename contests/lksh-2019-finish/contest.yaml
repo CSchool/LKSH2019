@@ -1,0 +1,16 @@
+name:
+    russian: "ЛКШ 2019 --- Олимпиада"
+
+location:
+    russian: "ДООЦ ``Зарница''"
+
+date:
+    russian: "22 августа 2019"
+
+problems:
+    - id: associations
+      prefix: A
+    - id: left-recursion
+      prefix: B
+    - id: tags
+      prefix: C
