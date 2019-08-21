@@ -18,3 +18,5 @@ problems:
       prefix: D
     - id: palindromnost
       prefix: E
+    - id: declaration
+      prefix: F
