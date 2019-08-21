@@ -14,3 +14,7 @@ problems:
       prefix: B
     - id: tags
       prefix: C
+    - id: typing
+      prefix: D
+    - id: palindromnost
+      prefix: E
