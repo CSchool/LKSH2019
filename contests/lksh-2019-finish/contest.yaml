@@ -20,3 +20,5 @@ problems:
       prefix: E
     - id: declaration
       prefix: F
+    - id: recover
+      prefix: G
