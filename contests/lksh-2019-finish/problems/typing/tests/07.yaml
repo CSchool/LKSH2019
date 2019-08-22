@@ -1,0 +1,2 @@
+generate: gen_rand_abs 6
+sample: false
