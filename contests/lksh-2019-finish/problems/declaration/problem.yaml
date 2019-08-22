@@ -20,7 +20,7 @@ time_limit: 1.0
 memory_limit: 256
 
 # Active checker, default is probably good enough if you have single possible answer.
-active_checker: standard.lcmp
+active_checker: checker
 
 # Active validators, default checks that tests are reasonably formatted.
 active_validators: []

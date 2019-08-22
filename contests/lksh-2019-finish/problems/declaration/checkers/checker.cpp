@@ -13,14 +13,10 @@ int dist(std::string s, std::string t)
 
 bool check_answer(std::string s, std::string t)
 {
-    std::string s_lc, t_lc;
     char prev;
 
     if (s.length() != t.length())
         return false;
-
-    s_lc := lowercase(s);
-    t_lc := lowercase(t);
 
     prev = ' ';
     for (size_t i = 0 ; i < s.length() ; ++i)
@@ -30,7 +26,7 @@ bool check_answer(std::string s, std::string t)
 
         if (isalpha(t[i]))
         {
-            if (prev <> ' ')
+            if (prev != ' ')
             {
                 if ((prev == tolower(prev)) == (t[i] == tolower(t[i])))
                     return false;
@@ -42,8 +38,9 @@ bool check_answer(std::string s, std::string t)
     return true;
 }
 
-int main()
+int main(int argc, char **argv)
 {
+    registerTestlibCmd(argc, argv);
     int dj, dp;
     std::string s, ans_s, ouf_s;
 
@@ -59,10 +56,10 @@ int main()
 
     dj = dist(s, ans_s);
     dp = dist(s, ouf_s);
-    if (dp > dj) then begin
-        quitf(_wa, 'Jury has better solution: %d < %d', dj, dp);
-    else if (dp < dj) then begin
-        quit(_fail, 'Contestant has better solution');
+    if (dp > dj)
+        quitf(_wa, "Jury has better solution: %d < %d", dj, dp);
+    else if (dp < dj)
+        quit(_fail, "Contestant has better solution");
 
-    quit(_ok, 'OK, good declaration');
+    quit(_ok, "OK, good declaration");
 }
