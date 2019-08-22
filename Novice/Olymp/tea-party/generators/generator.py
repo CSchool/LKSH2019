@@ -4,7 +4,7 @@ import sys
 random.seed(sys.argv[1])
 
 if sys.argv[1] == '0':
-    print('5\n1 2 3 4 5')
+    print('5\n2 4 6 8 10')
 else:
     test = int(sys.argv[1])
     left = 2 if 0 < test < 10 else 100
